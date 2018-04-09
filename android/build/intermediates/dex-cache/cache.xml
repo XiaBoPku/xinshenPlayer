@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/xiabo/develop/assert_ijkplayer_ios/Example/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.8.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3836ecca4e31e18ea8fbae8e822d49777b0db4f7">
+        <dex dex="/Users/xiabo/develop/assert_ijkplayer_ios/Example/android/app/build/intermediates/pre-dexed/debug/classes-8078e3ffc8552521a85eae1be63c84a561a5417c.jar" />
+    </item>
+    <item
+        jar="/Users/xiabo/develop/assert_ijkplayer_ios/Example/android/app/build/intermediates/exploded-aar/tv.danmaku.ijk.media/ijkplayer-x86/0.6.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5ee6f3750abc2947b67bfbdf2061e26b0def1735">
+        <dex dex="/Users/xiabo/develop/assert_ijkplayer_ios/Example/android/app/build/intermediates/pre-dexed/debug/classes-3cff30cec8849c2284d4d4592057565d11cabae7.jar" />
+    </item>
+    <item
+        jar="/Users/xiabo/develop/assert_ijkplayer_ios/Example/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/xiabo/develop/assert_ijkplayer_ios/Example/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1-32106d92884606bc190d376072efe44abe8e7989.jar" />
+    </item>
+    <item
+        jar="/Users/xiabo/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.5.0/4de2b4ed3445c37ec1720a7d214712e845a24636/okhttp-2.5.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4de2b4ed3445c37ec1720a7d214712e845a24636">
+        <dex dex="/Users/xiabo/develop/assert_ijkplayer_ios/Example/android/app/build/intermediates/pre-dexed/debug/okhttp-2.5.0-a9134ee1dfb4e9e767a43afdacbb52d6054716e0.jar" />
+    </item>
+    <item
+        jar="/Users/xiabo/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp-ws/2.5.0/e9753b7dcae5deca92e871c5c759067070b07bc/okhttp-ws-2.5.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0e9753b7dcae5deca92e871c5c759067070b07bc">
+        <dex dex="/Users/xiabo/develop/assert_ijkplayer_ios/Example/android/app/build/intermediates/pre-dexed/debug/okhttp-ws-2.5.0-bdba0cd451e42d9e3e6ab9286eeccf58c712bb83.jar" />
+    </item>
+    <item
+        jar="/Users/xiabo/develop/assert_ijkplayer_ios/Example/android/app/build/intermediates/exploded-aar/Example/react-native-vector-icons/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0e2f55bc3c31ef9f5e208f24ba86d436a5b9174d">
+        <dex dex="/Users/xiabo/develop/assert_ijkplayer_ios/Example/android/app/build/intermediates/pre-dexed/debug/classes-887c33a1f4e808deebd830fffbf68592e7e2245d.jar" />
+    </item>
+    <item
+        jar="/Users/xiabo/develop/assert_ijkplayer_ios/Example/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/0.8.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="845a5b3a624946b2068963ba656c117fc453701c">
+        <dex dex="/Users/xiabo/develop/assert_ijkplayer_ios/Example/android/app/build/intermediates/pre-dexed/debug/classes-b7c57ce1dc41c530e1a4ef7e6f2cedd9116c9cdb.jar" />
+    </item>
+    <item
+        jar="/Users/xiabo/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.2.3/1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14/jackson-core-2.2.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14">
+        <dex dex="/Users/xiabo/develop/assert_ijkplayer_ios/Example/android/app/build/intermediates/pre-dexed/debug/jackson-core-2.2.3-c7354ffb6b6ae03ab274557eaf80076658992eca.jar" />
+    </item>
+    <item
+        jar="/Users/xiabo/develop/assert_ijkplayer_ios/Example/android/app/build/intermediates/exploded-aar/tv.danmaku.ijk.media/ijkplayer-armv7a/0.6.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="883eb9c3bde63636505e42fc6cad790f4739b0d3">
+        <dex dex="/Users/xiabo/develop/assert_ijkplayer_ios/Example/android/app/build/intermediates/pre-dexed/debug/classes-ec56eb9249c7ca10597a2d1801d93bb9bac9bdd0.jar" />
+    </item>
+    <item
+        jar="/Users/xiabo/develop/assert_ijkplayer_ios/Example/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/xiabo/develop/assert_ijkplayer_ios/Example/android/app/build/intermediates/pre-dexed/debug/classes-55d51d65c657ca76970c890bc2d2f3d2c7a6577c.jar" />
+    </item>
+    <item
+        jar="/Users/xiabo/develop/assert_ijkplayer_ios/Example/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.8.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4af24c040b21980e0a80a505816c648e36705bd9">
+        <dex dex="/Users/xiabo/develop/assert_ijkplayer_ios/Example/android/app/build/intermediates/pre-dexed/debug/classes-30e83901ba8ad36c59cbac26b9d1904f811df5a4.jar" />
+    </item>
+    <item
+        jar="/Users/xiabo/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/xiabo/develop/assert_ijkplayer_ios/Example/android/app/build/intermediates/pre-dexed/debug/library-2.4.0-52f74bc7cba8a121a45c851c19f8eaa3f2bca4ed.jar" />
+    </item>
+    <item
+        jar="/Users/xiabo/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-android/1.1.4/129874135e6081269ace2312092031558865de12/bolts-android-1.1.4.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="129874135e6081269ace2312092031558865de12">
+        <dex dex="/Users/xiabo/develop/assert_ijkplayer_ios/Example/android/app/build/intermediates/pre-dexed/debug/bolts-android-1.1.4-93406e330865b097e42e95c45739ac7719797a3d.jar" />
+    </item>
+    <item
+        jar="/Users/xiabo/develop/assert_ijkplayer_ios/Example/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/xiabo/develop/assert_ijkplayer_ios/Example/android/app/build/intermediates/pre-dexed/debug/classes-398883a6fa99092b5b207c2dcfb87a4d2c9b1549.jar" />
+    </item>
+    <item
+        jar="/Users/xiabo/develop/assert_ijkplayer_ios/Example/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.8.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="9178570a3a28c95fabd3bc746cd68efe99ad2b47">
+        <dex dex="/Users/xiabo/develop/assert_ijkplayer_ios/Example/android/app/build/intermediates/pre-dexed/debug/classes-1203218b19635b056f974d499bc548f20506969d.jar" />
+    </item>
+    <item
+        jar="/Users/xiabo/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/Users/xiabo/develop/assert_ijkplayer_ios/Example/android/app/build/intermediates/pre-dexed/debug/okio-1.6.0-beec824836ee2afa6a8623b561114cdb54876299.jar" />
+    </item>
+    <item
+        jar="/Users/xiabo/develop/assert_ijkplayer_ios/Example/android/app/build/intermediates/exploded-aar/tv.danmaku.ijk.media/ijkplayer-x86_64/0.6.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0562efaffe940ea2da9383096ddea9281585c052">
+        <dex dex="/Users/xiabo/develop/assert_ijkplayer_ios/Example/android/app/build/intermediates/pre-dexed/debug/classes-ad7ab2367bb73be999806f8a73cebe6744ef1e7a.jar" />
+    </item>
+    <item
+        jar="/Users/xiabo/develop/assert_ijkplayer_ios/Example/android/app/build/intermediates/exploded-aar/tv.danmaku.ijk.media/ijkplayer-exo/0.6.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8ea19832be99715cdc3f400d6c6b4f2fa5b1cd0b">
+        <dex dex="/Users/xiabo/develop/assert_ijkplayer_ios/Example/android/app/build/intermediates/pre-dexed/debug/classes-5c07816e611c63911b4e5ba51fe7d1f92fe3a166.jar" />
+    </item>
+    <item
+        jar="/Users/xiabo/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/xiabo/develop/assert_ijkplayer_ios/Example/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1-42f5cc85eb95d18a1152d7054493eb45e42f1f59.jar" />
+    </item>
+    <item
+        jar="/Users/xiabo/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/xiabo/develop/assert_ijkplayer_ios/Example/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0-2186a6e05140996af344ba2502083df0079f4933.jar" />
+    </item>
+    <item
+        jar="/Users/xiabo/develop/assert_ijkplayer_ios/Example/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.26.3/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8a5b02b22cd03cf38474f894690ca5d5396b698f">
+        <dex dex="/Users/xiabo/develop/assert_ijkplayer_ios/Example/android/app/build/intermediates/pre-dexed/debug/classes-889f3440e04797dc895e928b8e577fe5114adfd7.jar" />
+    </item>
+    <item
+        jar="/Users/xiabo/develop/assert_ijkplayer_ios/Example/android/app/build/intermediates/exploded-aar/tv.danmaku.ijk.media/ijkplayer-java/0.6.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a13789ec9e884e49740bb970550fabcb340466c1">
+        <dex dex="/Users/xiabo/develop/assert_ijkplayer_ios/Example/android/app/build/intermediates/pre-dexed/debug/classes-a0768be3ef5495f1f522634ab3b740ae75697508.jar" />
+    </item>
+    <item
+        jar="/Users/xiabo/develop/assert_ijkplayer_ios/Example/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="/Users/xiabo/develop/assert_ijkplayer_ios/Example/android/app/build/intermediates/pre-dexed/debug/classes-498fa970b8c2dc5363ee1cc2b37fea95352e2d2c.jar" />
+    </item>
+    <item
+        jar="/Users/xiabo/develop/assert_ijkplayer_ios/Example/android/app/build/intermediates/exploded-aar/tv.danmaku.ijk.media/ijkplayer-armv5/0.6.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="7ea10def1c1f26b850eedb80aa4cfa6507efc4a5">
+        <dex dex="/Users/xiabo/develop/assert_ijkplayer_ios/Example/android/app/build/intermediates/pre-dexed/debug/classes-80f73a4e5921275dccda30e8ad8158fbd3d9e5ab.jar" />
+    </item>
+    <item
+        jar="/Users/xiabo/develop/assert_ijkplayer_ios/Example/android/app/build/intermediates/exploded-aar/com.google.android.exoplayer/exoplayer/r1.5.8/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="efba3a95bfd5a7fa40ed0758be78e806818b5449">
+        <dex dex="/Users/xiabo/develop/assert_ijkplayer_ios/Example/android/app/build/intermediates/pre-dexed/debug/classes-ce027f5fed040068c9e85dc32e12b755818ae482.jar" />
+    </item>
+    <item
+        jar="/Users/xiabo/develop/assert_ijkplayer_ios/Example/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp/0.8.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0d5d69b03cb7d68b81543f6483ed04ccb0e2235b">
+        <dex dex="/Users/xiabo/develop/assert_ijkplayer_ios/Example/android/app/build/intermediates/pre-dexed/debug/classes-f069d492919ffa25ec4c8a405918c54a74990471.jar" />
+    </item>
+    <item
+        jar="/Users/xiabo/develop/assert_ijkplayer_ios/Example/android/app/build/intermediates/exploded-aar/tv.danmaku.ijk.media/ijkplayer-arm64/0.6.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d6a0998f61ebb488e6a3198fa20c851a137cd9b3">
+        <dex dex="/Users/xiabo/develop/assert_ijkplayer_ios/Example/android/app/build/intermediates/pre-dexed/debug/classes-61e89df9516a88239451ce0d5645393cc59a7f3d.jar" />
+    </item>
+    <item
+        jar="/Users/xiabo/develop/assert_ijkplayer_ios/Example/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.26.3/jars/libs/infer-annotations-1.5.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="b48c2ceb4b4563dfe99b5ac7638b15d4052e45fb">
+        <dex dex="/Users/xiabo/develop/assert_ijkplayer_ios/Example/android/app/build/intermediates/pre-dexed/debug/infer-annotations-1.5-5daec5610a3b9e1fb279ead875ad88613889b131.jar" />
+    </item>
+
+</items>
